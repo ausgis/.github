@@ -17,8 +17,8 @@ ggplot() +
                              gp = gpar(fontsize = 16.5, fontface = "italic", 
                                        col = "white", lwd = 2.25)), 
                     xmin = -Inf, xmax = Inf, ymin = -Inf, ymax = Inf) +
-  annotation_custom(textGrob(text3, x = 0.1, y = 0.57, just = "left", 
-                             gp = gpar(fontsize = 9.5, fontface = "bold", 
+  annotation_custom(textGrob(text3, x = 0.1, y = 0.55, just = "left", 
+                             gp = gpar(fontsize = 11.5, fontface = "bold", 
                                        col = "white", lwd = 1.05)), 
                     xmin = -Inf, xmax = Inf, ymin = -Inf, ymax = Inf) +
   theme(plot.background = element_rect(fill = "transparent", color = NA))
