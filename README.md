@@ -2,7 +2,11 @@
 
 # <a href="https://yongzesong.com/geospatial-intelligence-lab/"> <img src="https://github.com/ausgis/.github/blob/main/bg_with_text.gif"> </a>
 
-<h1 style="text-align: center;">
+<div align="center">
+
+<h1>
 <a href="https://yongzesong.com/geospatial-intelligence-lab/" target="_blank">
-Geospatial Intelligence Lab </a>
+Website: Geospatial Intelligence Lab </a>
 </h1>
+
+</div>
